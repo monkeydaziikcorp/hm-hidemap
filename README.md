@@ -1,4 +1,4 @@
-# HM_HideMap par !HassanK#6666
+# HM_HideMap par HASH.lua
 
 Bonjour à tous je vous présente aujourd'hui un script pour cacher la Mini-Map !
 
